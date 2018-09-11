@@ -1,2 +1,3 @@
 # DVCS-Exercise
 Haopeng Zhang
+1.Repository 2.File 3.Repository 4.Toggle full screen, Reset zoom, Zoom in, Zoom out 5.Remote, Ignored files 6.3. A code repository that is not on your local computer. 7.1. A code repository that is on your local computer. 8.3. origin 9.2. cloning 10.2. fetch, merge, push 11.1. git fetch and then git merge 12.1. git repo 13.2. git add . 14.2. Staging files for a commit means to identify files that may be new, modified, or deleted and marking those as being ready to commit. 15.1. git commit -m "Commit message" 16.3. Record a snapshot of the changes that have happened in the repository since the last commit.
